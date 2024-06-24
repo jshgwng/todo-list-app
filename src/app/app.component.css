@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    max-width: 60%;
+    margin: 16px auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, .5);
+    border-radius: 8px;
+    padding: 8px 16px;
+}
+
+#container h1 {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#container p {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+
